@@ -130,9 +130,9 @@ export const siteConfig = {
         "Customer provides own outfit",
       ],
       pricing: {
-        1: 99,
-        2: 180,
-        3: 240,
+        1: 149,
+        2: 270,
+        3: 360,
       },
     },
     {
@@ -159,9 +159,9 @@ export const siteConfig = {
         "Customer provides own outfit",
       ],
       pricing: {
-        3: 360,
-        4: 440,
-        5: 500,
+        3: 540,
+        4: 660,
+        5: 750,
       },
     },
     {
@@ -186,10 +186,10 @@ export const siteConfig = {
         "Customer provides own outfit",
       ],
       pricing: {
-        5: 675,
-        6: 750,
-        7: 800,
-        8: 850,
+        5: 1000,
+        6: 1110,
+        7: 1185,
+        8: 1260,
       },
     },
   ] as PhotoPackage[],
@@ -209,7 +209,7 @@ export const siteConfig = {
 
   availableDates: ["2026-10-23", "2026-10-24", "2026-10-25"],
   includedPeople: 8,
-  extraPersonFee: 50,
+  extraPersonFee: 75,
   maxPeople: 20,
   bookingHorizonMonths: 12,
 
